@@ -4,7 +4,6 @@ A fast, minimal application launcher for Wayland compositors — built as a `dme
 
 ---
 
-## English
 
 ### What it is
 
