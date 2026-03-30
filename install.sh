@@ -20,10 +20,11 @@ if [ ! -f "$CONF_DIR/config.ini" ]; then
 else
     echo "Konfigfil finns redan: $CONF_DIR/config.ini (ingen ändring)"
 fi
-
+echo "Installed!"
 echo "Installerat: $BIN_DIR/wlauncher"
-echo ""
-echo "Lägg till i Hyprland-konfig (hyprland.conf):"
+echo "Add to Hyprland-configuration -"
+echo "Lägg till i Hyprland-config (hyprland.conf):"
 echo '  bind = SUPER, R, exec, wlauncher'
-echo ""
+echo "Make sure that it is in a PATH that hyprland can find! sometimes ~/.local/bin isnt enough. then copy it manually to /usr/bin "
 echo "Se till att ~/.local/bin är i din PATH."
+echo ""
