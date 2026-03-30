@@ -1,4 +1,4 @@
-# GAYLAND
+# GAYLAND by k3ff for k3ff so do not complain.
 
 A fast, minimal application launcher for Wayland compositors — built as a `dmenu`/`dmenu_run` replacement for Hyprland and other wlroots-based tiling window managers.
 
@@ -117,7 +117,11 @@ cp gayland/wlauncher ~/.local/bin/wlauncher
 
 #### Option 2 — Nuitka (true native compile)
 
-Nuitka compiles Python source to C and then to a real native binary. This gives faster startup and a smaller footprint than PyInstaller. It requires a C compiler (`gcc` or `clang`) and the Python development headers.
+Nuitka compiles Python source to C and then to a real native binary. This gives faster startup and a smaller footprint than PyInstaller. It requires a C compiler (`gcc` or `clang`) and the Python development headers. You may find nuitka in AUR. 
+
+```bash
+yay -S nuitka
+```
 
 ```bash
 # Install Nuitka
