@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+export GDK_BACKEND=wayland
+export PYTHONDONTWRITEBYTECODE=1
+exec python3 ~/.local/bin/wlauncher "$@"
+exec python3 /home/simon/.local/bin/wlauncher "$@"
