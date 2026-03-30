@@ -8,7 +8,7 @@ A fast, minimal application launcher for Wayland compositors — built as a `dme
 
 ### What it is
 
-wlauncher is a keyboard-driven application launcher that sits in a slim bar at the top or bottom of your screen. Type the first letters of a program name and it filters results instantly. Press Enter to launch. It has no borders, no decorations, and integrates cleanly with your Wayland setup via `gtk-layer-shell`.
+gayland is a keyboard-driven application launcher that sits in a slim bar at the top or bottom of your screen. Type the first letters of a program name and it filters results instantly. Press Enter to launch. It has no borders, no decorations, and integrates cleanly with your Wayland setup via `gtk-layer-shell`.
 
 A "gay" color mode exists: every character in the results cycles through a full rainbow palette at high speed against a black background.
 
