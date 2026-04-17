@@ -1,5 +1,4 @@
-# GAYLAND by k3ff for k3ff so do not complain.
-
+# GAYLAND/MONGO
 A fast, minimal application launcher for Wayland compositors — built as a `dmenu`/`dmenu_run` replacement for Hyprland and other wlroots-based tiling window managers.
 
 ---
