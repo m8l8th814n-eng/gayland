@@ -1,10 +1,7 @@
 # GAYLAND/MONGO
 A fast, minimal application launcher for Wayland compositors — built as a `dmenu`/`dmenu_run` replacement for Hyprland and other wlroots-based tiling window managers.
 
----
-Take a look at it.
-
-https://github.com/m8l8th814n-eng/gayland/blob/main/gayland.jpg?raw=true
+![shot](https://github.com/m8l8th814n-eng/gayland/blob/main/gayland.jpg)
 
 ### What it is
 
